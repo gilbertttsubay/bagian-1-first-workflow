@@ -11,3 +11,4 @@ jobs:
         run: |
             echo "Good bye Gilbert"
             echo "Good bye all"
+            echo "Add echo again"
