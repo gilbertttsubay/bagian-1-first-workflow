@@ -8,4 +8,6 @@ jobs:
       - name: Print Greeting
         run: echo "Hello Gilbert Subay"
       - name: Print Goodbye
-        run: echo "Good bye Gilbert"
+        run: |
+        echo "Good bye Gilbert"
+        echo "Good bye all"
