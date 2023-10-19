@@ -24,6 +24,11 @@
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -40,7 +45,7 @@
       <updated>1675208046280</updated>
       <workItem from="1675208048787" duration="87000" />
       <workItem from="1675208176727" duration="2748000" />
-      <workItem from="1697713740574" duration="231000" />
+      <workItem from="1697713740574" duration="407000" />
     </task>
     <task id="LOCAL-00001" summary="commit first workflows">
       <created>1675208444458</created>

@@ -9,3 +9,6 @@ jobs:
       - name: Print nama Gilbert
         run: |
           echo "Gilbert Subay"
+      - name: print nama apalah
+        run: |
+          echo "apalah itu"
