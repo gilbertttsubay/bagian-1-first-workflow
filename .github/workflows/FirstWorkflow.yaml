@@ -1,14 +1,11 @@
-name: First Workflow
-on: workflow_dispatch
+name: Frist Workflow
+on: push
 
 jobs:
-  first-job:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Print Greeting
-        run: echo "Hello Gilbert Subay"
-      - name: Print Goodbye
+      - name: Print nama Gilbert
         run: |
-            echo "Good bye Gilbert"
-            echo "Good bye all"
-            echo "Add echo again"
+          echo "Gilbert Subay"

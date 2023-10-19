@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a15fc1b9-a52c-47da-9ef0-7c7d72cc5ffb" name="Changes" comment="fixing yaml structure">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/FirstWorkflow.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/FirstWorkflow.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2L72xDOneKeX0uTF2kveAUzAGOB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a15fc1b9-a52c-47da-9ef0-7c7d72cc5ffb" name="Changes" comment="" />
+      <created>1675208046280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675208046280</updated>
+      <workItem from="1675208048787" duration="87000" />
+      <workItem from="1675208176727" duration="2748000" />
+      <workItem from="1697713740574" duration="231000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit first workflows">
+      <created>1675208444458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675208444458</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add gitignore">
+      <created>1675209404811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675209404811</updated>
+    </task>
+    <task id="LOCAL-00003" summary="push first workflow">
+      <created>1675210036666</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675210036666</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add run">
+      <created>1675223941466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675223941466</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixing yaml structure">
+      <created>1675224029994</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675224029994</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixing yaml structure">
+      <created>1675224214043</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675224214043</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit first workflows" />
+    <MESSAGE value="add gitignore" />
+    <MESSAGE value="push first workflow" />
+    <MESSAGE value="add run" />
+    <MESSAGE value="fixing yaml structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing yaml structure" />
+  </component>
+  <component name="YamllintSettings">
+    <option name="binPath" value="yamllint" />
+  </component>
+</project>
